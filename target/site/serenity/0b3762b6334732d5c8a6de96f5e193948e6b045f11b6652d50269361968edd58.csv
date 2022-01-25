@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories Functionality","Verify user should able to access categories information","SUCCESS","2022-01-25T17:55:44.959Z[Europe/London]","0.0","2.04"
+"Categories Functionality","Create new category and verify if the category is added","SUCCESS","2022-01-25T17:55:47.651Z[Europe/London]","0.0","0.42"
+"Categories Functionality","Update the category information and verify if category is updated","SUCCESS","2022-01-25T17:55:48.089Z[Europe/London]","0.0","0.04"
+"Categories Functionality","I delete the store and verify category is deleted successfully","SUCCESS","2022-01-25T17:55:48.144Z[Europe/London]","0.0","0.09"
